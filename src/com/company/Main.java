@@ -48,8 +48,31 @@ public class Main {
         System.out.println(name2.toUpperCase());
         System.out.println(strangename.trim());
         System.out.println(strangename.contains("zdanie"));
-
-
-
-        }
+        externalMethod(method1() + method2(method3() + method4()));
     }
+
+    static void externalMethod(int arg) {
+        System.out.println("externalMethod");
+        System.out.println(arg);
+    }
+
+    private static int method1() {
+        System.out.println("method1");
+        return 1;
+    }
+
+    private static int method2(int i) {
+        System.out.println("method2");
+        return i;
+    }
+
+    private static int method3() {
+        System.out.println("method3");
+        return 3;
+    }
+
+    private static int method4() {
+        System.out.println("method4");
+        return 4;
+    }
+}
