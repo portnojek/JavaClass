@@ -2,7 +2,7 @@ package com.company.week3;
 
 import java.util.Arrays;
 
-public class SortingExample {
+public class SortingExamplePerplexity {
     public static void main(String[] args) {
         int[] arr = {34, 54, 23, 3, 12, 9, 0, 7, 456, 999};
         System.out.println("Before: " + Arrays.toString(arr));
