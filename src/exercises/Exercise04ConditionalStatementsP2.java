@@ -1,8 +1,8 @@
-package com.company.exercises.week1;
+package exercises;
 
 import java.util.Scanner;
 
-public class Exercise4 {
+public class Exercise04ConditionalStatementsP2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 //        leapYear(scanner);

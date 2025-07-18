@@ -1,4 +1,4 @@
-package com.company.exercises.week4.equals;
+package com.company.equals;
 
 public class Main {
     public static void main(String[] args) {

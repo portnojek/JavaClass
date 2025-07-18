@@ -1,4 +1,4 @@
-package com.company.exercises.week4.equalsperplesxity;
+package com.company.equalsperplesxity;
 
 public class Person {
     private String name;

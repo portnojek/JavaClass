@@ -1,6 +1,4 @@
-package com.company.exercises.week4.equals;
-
-import org.w3c.dom.ls.LSOutput;
+package com.company.equals;
 
 import java.util.Objects;
 

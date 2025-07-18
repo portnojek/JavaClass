@@ -1,8 +1,8 @@
-package com.company.exercises.week1;
+package exercises;
 //variables
 import java.util.Scanner;
 
-public class Exercise2 {
+public class Exercise02StringOperations {
 
     public static void main(String[] args) {
         length();

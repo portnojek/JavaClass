@@ -1,7 +1,7 @@
-package com.company.exercises.week1;
+package exercises;
 
 //operators
-public class Exercise3 {
+public class Exercise03ConditionalsStatements {
     public static void main(String[] args) {
 
         calculator(3.5, 5.6);

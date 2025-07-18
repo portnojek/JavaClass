@@ -1,4 +1,4 @@
-package com.company.exercises.week4.typepromotion;
+package com.company.typepromotion;
 
 public class ThisCalculator {
     public String model = "Sony";

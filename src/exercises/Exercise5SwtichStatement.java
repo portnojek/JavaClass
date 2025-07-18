@@ -1,9 +1,9 @@
-package com.company.exercises.week1;
+package exercises;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Exercise5 {
+public class Exercise5SwtichStatement {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 //        silnia(scanner);

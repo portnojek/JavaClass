@@ -1,4 +1,4 @@
-package com.company.exercises.week4.eat;
+package com.company.eat;
 
 public class Person {
 
